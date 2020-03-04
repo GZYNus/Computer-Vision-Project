@@ -1,1 +1,1 @@
-# Generate Fake Mnist Using Generative Adversarial Network
+# Generate Fake Mnist Using GAN (Generative Adversarial Network)
