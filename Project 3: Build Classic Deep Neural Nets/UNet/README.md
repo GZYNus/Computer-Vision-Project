@@ -1,2 +1,2 @@
 # UNet Structure
-![UNet](Project 3: Build Classic Deep Neural Nets/UNet/README.md)
+![UNet](https://github.com/GZYNus/Computer-Vision-Project/tree/master/Project%203:%20Build%20Classic%20Deep%20Neural%20Nets/UNet)
