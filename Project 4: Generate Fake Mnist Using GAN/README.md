@@ -7,4 +7,6 @@ In GAN, we need to build two models separately, Generator and Discriminator. Als
 
 * GAN generated numerical images:
 
+![](https://github.com/GZYNus/Computer-Vision-Project/blob/master/Project%204:%20Generate%20Fake%20Mnist%20Using%20GAN/gan_generated_image_epoch_1.png)
+
 
