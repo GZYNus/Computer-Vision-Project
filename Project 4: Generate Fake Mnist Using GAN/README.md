@@ -13,3 +13,8 @@ In GAN, we need to build two models separately, Generator and Discriminator. Als
 
 ![](https://github.com/GZYNus/Computer-Vision-Project/blob/master/Project%204:%20Generate%20Fake%20Mnist%20Using%20GAN/gan_generated_image_epoch_20.png)
 
+* GAN generated numerical images after 40 Epoch: (100 images in total)
+
+![](https://github.com/GZYNus/Computer-Vision-Project/blob/master/Project%204:%20Generate%20Fake%20Mnist%20Using%20GAN/gan_generated_image_epoch_40.png)
+
+* Note that here I use mini-batch gradient descent(Adam). Hence during 1 epoch, the network will update 234 times (60000/256).
