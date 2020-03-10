@@ -1,3 +1,3 @@
 # DenseNet Architecture Graphs
 
-Here shows the exact and percise architecture for DenseNet. It is apparantly shows the relationship among different layers.
+Here shows the exact and precise architecture for DenseNet. It apparently shows the relationship between different layers.
